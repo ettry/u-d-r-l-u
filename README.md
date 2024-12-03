@@ -15,7 +15,8 @@ _path 代表需要打开的文件或路径
 输入次数大的事件中的输入顺序不得包含输入次数小的事件的输入顺序  
 可以在变量中添加,来增加事件  
 例: A3_1为up A3_2为up A3_3为up 就不可以输入 B4_1为up B4_2为up B4_3为up B4_4为down 否则只会执行A3的事件而不执行B4的事件
-目前只支持打开软件
+目前只支持打开软件  
+如果提示请求的操作需要提升请使用管理员权限运行软件
 
 # About
 You can easily open the software or file you configured by configuring the json file  
@@ -34,5 +35,6 @@ All variables must have content or the program will crash.
 The input order of events with a large number of inputs must not include the input order of events with a small number of inputs.  
 You can add a variable to increase the number of events.  
 Example: A3_1 is up A3_2 is up A3_3 is up, then B4_1 is up B4_2 is up B4_3 is up B4_4 is down, otherwise it will only execute the event of A3 but not the event of B4.  
+If you are prompted that 请求的操作需要提升, please run the software with administrator privileges.  
 
 Translated with DeepL.com (free version)
