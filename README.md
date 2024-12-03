@@ -9,7 +9,7 @@ _1 _2 _3 _4 _5 分别代表第一,第二,第三,第四,第五次输入
 例如在A3_1中输入"up"在A3_2中输入"Right"在A3_3中输入"Right"(不区分大小写),此时打开软件在方向键上依次按下 上右左 就可以打开指定的软件
 
 _path 代表需要打开的文件或路径  
-路径格式为 "盘符:\\文件夹\\软件名称"  
+路径格式为 `盘符:\\文件夹\\软件名称`  
 # 注意  
 所有变量中必须要有内容否则程序会直接崩溃  
 输入次数大的事件中的输入顺序不得包含输入次数小的事件的输入顺序  
@@ -29,7 +29,8 @@ _1 _2 _3 _4 _5 represent the first, second, third, fourth and fifth inputs respe
 For example, in A3_1 enter “up” in A3_2 enter “Right” in A3_3 enter “Right” (case insensitive), this time to open the software in the direction of the key in turn press on the right left to open the specified software
 
 _path on behalf of the need to open the file or path  
-The path format is “C:\\folder\\qwe.exe”.  
+The path format is `C:\\folder\\qwe.exe`
+.  
 # Note  
 All variables must have content or the program will crash.  
 The input order of events with a large number of inputs must not include the input order of events with a small number of inputs.  
