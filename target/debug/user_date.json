@@ -1,0 +1,26 @@
+{
+    "A3_1":["Up","Down"],
+    "A3_2":["Up","Down"],
+    "A3_3":["Up","Down"],
+    "A3_path":[
+        "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\\wt.exe",
+        "C:\\mydata\\password.txt"
+    ],
+
+    "B4_1":["Up"],
+    "B4_2":["Down"],
+    "B4_3":["Down"],
+    "B4_4":["Right"],
+    "B4_path":[
+        "C:\\mydata\\game\\Fluffy Manager 5000-8-2-220-1589117251\\Modmanager.exe"
+    ],
+
+    "C5_1":["Up"],
+    "C5_2":["Down"],
+    "C5_3":["Right"],
+    "C5_4":["Left"],
+    "C5_5":["Up"],
+    "C5_path":[
+        "C:\\mydata\\game\\pcl\\Plain Craft Launcher 2.exe"
+    ]
+}
