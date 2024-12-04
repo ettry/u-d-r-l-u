@@ -1,26 +1,39 @@
 {
-    "A3_1":["Up","Down"],
-    "A3_2":["Up","Down"],
-    "A3_3":["Up","Down"],
-    "A3_path":[
+    "a3_name":["cmd","Edge"],
+    "a3_1":["Up","Down"],
+    "a3_2":["Up","Down"],
+    "a3_3":["Up","Down"],
+    "a3_path":[
         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.21.3231.0_x64__8wekyb3d8bbwe\\wt.exe",
-        "C:\\mydata\\password.txt"
+        "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
     ],
 
-    "B4_1":["Up"],
-    "B4_2":["Down"],
-    "B4_3":["Down"],
-    "B4_4":["Right"],
-    "B4_path":[
+    "b4_name":["mod DMC5"],
+    "b4_1":["Up"],
+    "b4_2":["Down"],
+    "b4_3":["Down"],
+    "b4_4":["Right"],
+    "b4_path":[
         "C:\\mydata\\game\\Fluffy Manager 5000-8-2-220-1589117251\\Modmanager.exe"
     ],
 
-    "C5_1":["Up"],
-    "C5_2":["Down"],
-    "C5_3":["Right"],
-    "C5_4":["Left"],
-    "C5_5":["Up"],
-    "C5_path":[
+    "c5_name":["pcl"],
+    "c5_1":["Up"],
+    "c5_2":["Down"],
+    "c5_3":["Right"],
+    "c5_4":["Left"],
+    "c5_5":["Up"],
+    "c5_path":[
         "C:\\mydata\\game\\pcl\\Plain Craft Launcher 2.exe"
-    ]
+    ],
+
+    "d_file_name":["test"],
+    "d_file1_json":["up"],
+    "d_file2_json":["up"],
+    "d_file3_json":["Down"],
+    "d_file4_json":["Right"],
+    "d_file5_json":["down"],
+    "d_file6_json":["Left"],
+    "d_file_path":["C:\\mydata\\test.txt"]
+
 }
