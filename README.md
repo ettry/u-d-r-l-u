@@ -4,9 +4,9 @@
 同一开头的变量的一组数据组成一次完整的事件例如`a3_1 a3_2 a3_3 a3_name a3_path`的第一位数据组成一次事件  
 a3开头的变量为按3次按钮打开软件  
 b4开头的变量为按4次按钮打开软件  
-b5开头的变量为按5次按钮打开软件  
+b5开头的变量为按5次按钮打开软件
+d开头的变量为按6按键次打开文件(只有d开头的变量可以打开文件也只可以打开文件)  
 
-d开头的变量为按6按键次打开文件(只有d开头的变量可以打开文件也只可以打开文件)
 _1 _2 _3 _4 _5 分别代表第一,第二,第三,第四,第五次输入  
 例如在A3_1中输入"up"在A3_2中输入"Right"在A3_3中输入"Right"(不区分大小写),此时打开软件在方向键上依次按下 上右左 就可以打开指定的软件  
 d_file1,2,3,4,5,6代表第1,2,3,4,5,6次输入  
@@ -30,6 +30,7 @@ A set of data from a variable with the same beginning forms a complete event e.g
 Variables beginning with A3 open the software by pressing the button 3 times.  
 Variables beginning with B4 open the software by pressing the button 4 times.  
 Variables beginning with C5 open the software by pressing the button 5 times.  
+Variables beginning with d open the file by pressing 6 keystrokes (only variables beginning with d can open the file and only the file can be opened)  
 
 _1 _2 _3 _4 _5 represent the first, second, third, fourth and fifth inputs respectively.  
 For example, in A3_1 enter “up” in A3_2 enter “Right” in A3_3 enter “Right” (case insensitive), this time to open the software in the direction of the key in turn press on the right left to open the specified software
