@@ -336,7 +336,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
                 }
                 if d_file1.len() !=0 && d6_d!=1{
 
-                    println!("qwer {}",d6_d);
+                    //println!("qwer {}",d6_d);
                     for t in 0..d_file1.len(){
                         file_6(d_file1[t],d_file2[t],d_file3[t],d_file4[t],d_file5[t],d_file6[t],&mut key_sequence,&config.d_file_path[t],&config.d_file_name[t])
                     }
